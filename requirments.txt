@@ -1,8 +1,4 @@
+google-generativeai
 streamlit
-pandas
-numpy
-google-genai
-matplotlib
-seaborn
 gTTs
 dotenv
