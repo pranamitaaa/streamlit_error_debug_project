@@ -1,4 +1,8 @@
 streamlit
-pillow
-google-generativeai
-python-dotenv
+pandas
+numpy
+google-genai
+matplotlib
+seaborn
+gTTs
+dotenv
